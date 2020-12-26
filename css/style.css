@@ -580,6 +580,7 @@ img {
 }
 .footer-contacts {
   display: block;
+  width: 231px;
   margin-right: 70px;
 }
 .footer-list {
